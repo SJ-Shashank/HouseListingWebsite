@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins';
+}
+.carousel-section img{
+    height: 400px;
+}
+.all-listing{
+    height: 11rem;
+}
+.contact-form{
+    width: 60vw;
+}
+.footer-section{
+    min-height: 14rem;
+
+}
+
+@media (max-width: 769px){
+    .contact-form{
+        width: 95vw;
+    }
+}
